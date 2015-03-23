@@ -1,0 +1,20 @@
+/* =========================================================
+	created by:	Michael Kjeldsen
+	website:	http://michaelkjeldsen.com/
+				http;//mchl.dk/
+	thanks to:	http://www.colorzilla.com/gradient-editor/
+					&
+				http://dabblet.com/gist/5450762
+				for sparking the idea :-)
+========================================================= */
+				
+				
+.rainbow {
+	background: #f80c12; /* Old browsers */
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#f80c12), color-stop(0.06, #f80c12), color-stop(0.06, #ee1100), color-stop(0.12, #ff3311), color-stop(0.18, #ff4422), color-stop(0.24, #ff6644), color-stop(0.29, #ff9933), color-stop(0.35, #feae2d), color-stop(0.41, #ccbb33), color-stop(0.47, #d0c310), color-stop(0.53, #aacc22), color-stop(0.59, #69d025), color-stop(0.65, #22ccaa), color-stop(0.71, #12bdb9), color-stop(0.76, #11aabb), color-stop(0.82, #4444dd), color-stop(0.88, #3311bb), color-stop(0.94, #442299), to(#442299));
+	background: -webkit-linear-gradient(#f80c12 0%, #f80c12 6%, #ee1100 6%, #ff3311 12%, #ff4422 18%, #ff6644 24%, #ff9933 29%, #feae2d 35%, #ccbb33 41%, #d0c310 47%, #aacc22 53%, #69d025 59%, #22ccaa 65%, #12bdb9 71%, #11aabb 76%, #4444dd 82%, #3311bb 88%, #442299 94%, #442299 100%);
+	background: -moz-linear-gradient(#f80c12 0%, #f80c12 6%, #ee1100 6%, #ff3311 12%, #ff4422 18%, #ff6644 24%, #ff9933 29%, #feae2d 35%, #ccbb33 41%, #d0c310 47%, #aacc22 53%, #69d025 59%, #22ccaa 65%, #12bdb9 71%, #11aabb 76%, #4444dd 82%, #3311bb 88%, #442299 94%, #442299 100%);
+	background: -o-linear-gradient(#f80c12 0%, #f80c12 6%, #ee1100 6%, #ff3311 12%, #ff4422 18%, #ff6644 24%, #ff9933 29%, #feae2d 35%, #ccbb33 41%, #d0c310 47%, #aacc22 53%, #69d025 59%, #22ccaa 65%, #12bdb9 71%, #11aabb 76%, #4444dd 82%, #3311bb 88%, #442299 94%, #442299 100%);
+	background: linear-gradient(#f80c12 0%, #f80c12 6%, #ee1100 6%, #ff3311 12%, #ff4422 18%, #ff6644 24%, #ff9933 29%, #feae2d 35%, #ccbb33 41%, #d0c310 47%, #aacc22 53%, #69d025 59%, #22ccaa 65%, #12bdb9 71%, #11aabb 76%, #4444dd 82%, #3311bb 88%, #442299 94%, #442299 100%); /* FF3.6+ */ /* Chrome,Safari4+ */ /* Chrome10+,Safari5.1+ */ /* Opera 11.10+ */ /* IE10+ */ /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f80c12', endColorstr='#442299',GradientType=0 ); /* IE6-9 */
+}
