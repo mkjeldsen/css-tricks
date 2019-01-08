@@ -1,14 +1,12 @@
 /* =========================================================
-	created by:	Michael Kjeldsen
-	website:	http://michaelkjeldsen.com/
-				http;//mchl.dk/
-	thanks to:	http://www.colorzilla.com/gradient-editor/
+   created by:	Michael Kjeldsen
+   website:	http://michaelkjeldsen.com/
+   thanks to:	http://www.colorzilla.com/gradient-editor/
 					&
 				http://dabblet.com/gist/5450762
 				for sparking the idea :-)
 ========================================================= */
-				
-				
+
 .rainbow {
 	background: #f80c12; /* Old browsers */
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#f80c12), color-stop(0.06, #f80c12), color-stop(0.06, #ee1100), color-stop(0.12, #ff3311), color-stop(0.18, #ff4422), color-stop(0.24, #ff6644), color-stop(0.29, #ff9933), color-stop(0.35, #feae2d), color-stop(0.41, #ccbb33), color-stop(0.47, #d0c310), color-stop(0.53, #aacc22), color-stop(0.59, #69d025), color-stop(0.65, #22ccaa), color-stop(0.71, #12bdb9), color-stop(0.76, #11aabb), color-stop(0.82, #4444dd), color-stop(0.88, #3311bb), color-stop(0.94, #442299), to(#442299));
